@@ -54,4 +54,3 @@ For more information about model methodology, review [this blog post on medium](
 
 ##### Contact
 Madeline Jones - [@madiej6](https://twitter.com/madiej6) - madelinejones214@gmail.com
-& "Project: Ptolemy Contact Email" <product@nltgis.com>
