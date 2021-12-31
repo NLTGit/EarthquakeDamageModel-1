@@ -1,5 +1,7 @@
 # EarthquakeDamageModel
 
+Background material here: https://medium.com/new-light-technologies/a-predictive-earthquake-damage-model-written-in-python-e1862518fd92
+
 #### System Requirements:
 - ArcGIS Pro 2.7+
 - Windows 10
