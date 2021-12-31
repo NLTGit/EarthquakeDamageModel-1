@@ -57,5 +57,7 @@ For more information about model methodology, review [this blog post on medium](
 ##### Contact
 Madeline Jones - [@madiej6](https://twitter.com/madiej6) - madelinejones214@gmail.com
 
+#Additional Contacts:
 Contact NLT Team for implementations at our customers and products such as Project:Ptolemy
 https://www.projectptolemy.co/
+https://newlighttechnologies.com/contact-us/
